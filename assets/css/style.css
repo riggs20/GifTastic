@@ -1,0 +1,45 @@
+body {
+	background-color: black;
+	color: white;
+	margin: 20px;
+	font-family: 'Acme', sans-serif;
+	font-size: 22px;
+}
+
+.container {
+	padding: 0;
+}
+
+h1 {
+	font-size: 40px;
+	font-family: 'Luckiest Guy', cursive;
+	font-weight: bolder;
+	padding: 0 0 20px 0;
+}
+
+button {
+	background-color: white;
+	color: maroon;
+	font-size: 22px;
+	font-family: 'Acme', sans-serif;
+	margin: 5px;
+}
+
+form {
+	margin: 20px 0 500px 0;
+	float: right;
+}
+
+label, input {
+	font-size: 22px;
+	font-family: 'Acme', sans-serif;	
+}
+
+#emotionDiv {
+	float: left;
+	margin: 10px;
+}
+
+p {
+	margin: 0 0 10px 0;
+}
